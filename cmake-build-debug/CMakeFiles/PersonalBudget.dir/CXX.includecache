@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aasmc/CLionProjects/PersonalBudget/budget.cpp
+
+/Users/aasmc/CLionProjects/PersonalBudget/main.cpp
+iostream
+/Users/aasmc/CLionProjects/PersonalBudget/iostream
+ctime
+/Users/aasmc/CLionProjects/PersonalBudget/ctime
+utility
+/Users/aasmc/CLionProjects/PersonalBudget/utility
+unordered_map
+/Users/aasmc/CLionProjects/PersonalBudget/unordered_map
+string
+/Users/aasmc/CLionProjects/PersonalBudget/string
+vector
+/Users/aasmc/CLionProjects/PersonalBudget/vector
+array
+/Users/aasmc/CLionProjects/PersonalBudget/array
+iomanip
+/Users/aasmc/CLionProjects/PersonalBudget/iomanip
+
